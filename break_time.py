@@ -3,7 +3,7 @@
 import time
 import webbrowser
 
-total_breaks = 3
+total_breaks = 4
 break_count = 0
 
 print("This program started on"+time.ctime())
